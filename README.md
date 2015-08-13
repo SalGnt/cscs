@@ -36,8 +36,8 @@ Docs
 
 ### JavaScript
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html).
-* [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
 * [GitHub JavaScript Coding Style](https://github.com/styleguide/javascript).
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
 * [JavaScript: The Right Way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [jQuery JavaScript Style Guide](https://contribute.jquery.org/style-guide/js/).
 * [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
@@ -64,9 +64,8 @@ Docs
 ### Shell
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml).
 
-
 ### Swift
-* [Github Swift Style Guide](https://github.com/github/swift-style-guide).
+* [Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 
 ### Visual Basic
 * [Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx).
