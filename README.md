@@ -64,6 +64,10 @@ Docs
 ### Shell
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml).
 
+
+### Swift
+* [Github Swift Style Guide](https://github.com/github/swift-style-guide).
+
 ### Visual Basic
 * [Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx).
 
