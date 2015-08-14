@@ -74,7 +74,14 @@ Docs
 * [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
 
 ### Objective-C
+* [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml).
+* [Macoscope Objective-C Style Guide](https://github.com/macoscope/objc-style-guide) - Our code style guidelines.
+* [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
+* [Robots & Pencils Objective-C Style Guide](https://github.com/RobotsAndPencils/objective-c-style-guide) - Our Objective-C coding style guide. Fall in line!
+* [The Official raywenderlich.com Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com.
+* [The Official wantedly.com Objective-C Style Guide](https://github.com/wantedly/objective-c-style-guide).
+* [Wonderful Objective-C Style Guide](https://github.com/markeissler/wonderful-objective-c-style-guide) - A complete OSX and iOS Objective-C coding style guide.
 
 ### PHP
 * [MediaWiki PHP Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
