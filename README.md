@@ -9,7 +9,7 @@ Docs
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
 * [Recommended C Style and Coding Standards](http://ieng9.ucsd.edu/~cs30x/indhill-cstyle.html).
 
-### C#
+### C&#35;
 * [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards).
 * [Microsoft C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx).
 
