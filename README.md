@@ -24,6 +24,10 @@ Docs
 ### Git
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
 
+### Haskell
+* [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines).
+* [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
+
 ### HTML/CSS
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
 * [jQuery CSS Style Guide](https://contribute.jquery.org/style-guide/css/).
