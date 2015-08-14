@@ -78,7 +78,10 @@ Docs
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml).
 
 ### Swift
-* [Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+* [GitHub Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+* [Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
+* [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com.
+* [The Swift Style Guide](https://github.com/netguru/swift-style-guide) - The Swift Style Guide. This guide should help you to improve your Swift code style, its readability, consistency and simplicity.
 
 ### VHDL
 * [VHDL Coding Style Guidelines](http://webdocs.cs.ualberta.ca/~amaral/courses/329/labs/VHDL_Guideline.html).
