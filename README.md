@@ -97,6 +97,7 @@ Docs
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml).
 
 ### Ruby
+* [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby) - Ruby Style Guide.
 * [GitHub Ruby Coding Style](https://github.com/styleguide/ruby).
 * [MediaWiki Ruby Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Ruby).
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
