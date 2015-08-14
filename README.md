@@ -54,9 +54,13 @@ Docs
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html).
 * [GitHub JavaScript Coding Style](https://github.com/styleguide/javascript).
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
+* [JavaScript Style Guide](https://github.com/bengourley/js-style-guide) - JavaScript style guide.
+* [JavaScript Style Guide](https://github.com/chamnap/javascript_style_guide) - JavaScript Style Guide.
+* [JavaScript Style Guide](https://github.com/mercadolibre/javascript-style-guide) - MercadoLibre JavaScript Style Guide.
 * [JavaScript: The Right Way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [jQuery JavaScript Style Guide](https://contribute.jquery.org/style-guide/js/).
 * [MediaWiki JavaScript Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript).
+* [The GoCardless JavaScript Style Guide](https://github.com/gocardless/javascript-style-guide) The GoCardless JavaScript styleguide.
 * [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
 * [Wordpress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
 
