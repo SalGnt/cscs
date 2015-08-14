@@ -31,6 +31,7 @@ Docs
 
 ### Haskell
 * [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines).
+* [Haskell Style Guide](https://github.com/chrisdone/haskell-style-guide) - A document describing how I like Haskell code to be written.
 * [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
 
 ### HTML/CSS
