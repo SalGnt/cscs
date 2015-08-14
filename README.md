@@ -33,6 +33,7 @@ Docs
 ### Java
 * [Code Conventions for the Java TM Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html).
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html).
+* [Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html).
 
 ### JavaScript
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html).
