@@ -54,6 +54,9 @@ Docs
 ### Objective-C
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml).
 
+### PHP
+* [PHP Framework Interop Group Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
+
 ### Python
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
 * [PEP Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
