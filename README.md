@@ -32,6 +32,7 @@ Docs
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
 * [jQuery CSS Style Guide](https://contribute.jquery.org/style-guide/css/).
 * [jQuery HTML Style Guide](https://contribute.jquery.org/style-guide/html/).
+* [MediaWiki CSS Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
 
 ### Java
@@ -45,6 +46,7 @@ Docs
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
 * [JavaScript: The Right Way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [jQuery JavaScript Style Guide](https://contribute.jquery.org/style-guide/js/).
+* [MediaWiki JavaScript Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript).
 * [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
 * [Wordpress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
 
@@ -55,10 +57,12 @@ Docs
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml).
 
 ### PHP
+* [MediaWiki PHP Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
 * [PHP Framework Interop Group Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
 
 ### Python
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
+* [MediaWiki Python Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Python).
 * [PEP Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
 * [The Hitchhiker's Guide to Python Code Style](http://docs.python-guide.org/en/latest/writing/style/).
 
@@ -67,6 +71,7 @@ Docs
 
 ### Ruby
 * [GitHub Ruby Coding Style](https://github.com/styleguide/ruby).
+* [MediaWiki Ruby Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Ruby).
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 
 ### Shell
