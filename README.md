@@ -56,6 +56,9 @@ Docs
 ### JSON
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
 
+### Lua
+* [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide.
+
 ### Objective-C
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml).
 
