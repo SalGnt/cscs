@@ -67,6 +67,9 @@ Docs
 ### Swift
 * [Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 
+### VHDL
+* [VHDL Coding Style Guidelines](http://webdocs.cs.ualberta.ca/~amaral/courses/329/labs/VHDL_Guideline.html).
+
 ### Visual Basic
 * [Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx).
 
