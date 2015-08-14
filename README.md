@@ -35,7 +35,10 @@ Docs
 * [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
 
 ### HTML/CSS
+* [CSS Style Guide](https://github.com/mercadolibre/css-style-guide) - MercadoLibre CSS Style Guide.
+* [Evernote CSS Style Guide](https://github.com/evernote/css-style-guide).
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
+* [HTML Style Guide](https://github.com/caiogondim/html-style-guide).
 * [jQuery CSS Style Guide](https://contribute.jquery.org/style-guide/css/).
 * [jQuery HTML Style Guide](https://contribute.jquery.org/style-guide/html/).
 * [MediaWiki CSS Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
