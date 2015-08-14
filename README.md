@@ -27,6 +27,7 @@ Docs
 
 ### Git
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
+* [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
 ### Haskell
 * [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines).
