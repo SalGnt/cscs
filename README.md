@@ -59,6 +59,9 @@ Docs
 ### Lua
 * [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide.
 
+### Markdown
+* [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
+
 ### Objective-C
 * [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml).
 
