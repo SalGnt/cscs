@@ -103,6 +103,8 @@ Docs
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 
 ### Shell
+* [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!).
+* [Community Bash Style Guide](https://github.com/azet/community_bash_style_guide) - (community-driven) guide to writing useful and modern bash scripts. seriously.
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml).
 
 ### Swift
