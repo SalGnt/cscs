@@ -21,6 +21,9 @@ Docs
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
 
+### Go
+* [How to Write Go Code](https://golang.org/doc/code.html).
+
 ### Git
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
 
