@@ -48,7 +48,7 @@ Docs
 * [Code Conventions for the Java TM Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html).
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html).
 * [Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html).
-* [Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/).
+* [OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/).
 * [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
 
 ### JavaScript
