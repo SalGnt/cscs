@@ -43,8 +43,8 @@ Docs
 * [jQuery HTML Style Guide](https://contribute.jquery.org/style-guide/html/).
 * [MediaWiki CSS Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
-* [Wordpress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
-* [Wordpress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
+* [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
+* [WordPress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
 
 ### Java
 * **[Code Conventions for the Java &#8482; Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)**.
