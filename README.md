@@ -26,6 +26,10 @@ Docs
 ### Elixir
 * [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
 
+### F&#35;
+* **[Microsoft Code Formatting Guidelines (F#)](https://msdn.microsoft.com/en-us/library/dd233191.aspx)**.
+* [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/).
+
 ### Go
 * **[How to Write Go Code](https://golang.org/doc/code.html)**.
 
