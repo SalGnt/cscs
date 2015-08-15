@@ -29,6 +29,9 @@ Docs
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
 * [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
+### Elixir
+* [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide).
+
 ### Haskell
 * **[Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)**.
 * [Haskell Style Guide](https://github.com/chrisdone/haskell-style-guide) - A document describing how I like Haskell code to be written.
