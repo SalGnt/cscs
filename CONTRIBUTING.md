@@ -1,4 +1,4 @@
-Contribution
+Contributing
 ============
 Do you have a suggestion? Open a pull request or a issue.
 
