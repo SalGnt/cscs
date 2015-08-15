@@ -19,7 +19,6 @@ Docs
 * [C++ Coding Standard](http://www.possibility.com/Cpp/CppCodingStandard.html).
 * [C++ Coding Standard](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html).
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
-* [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
