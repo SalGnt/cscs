@@ -26,8 +26,8 @@ Docs
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
 
 ### Common Lisp
-* [Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml).
 * [Ariel Networks Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html).
+* [Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml).
 
 ### Dart
 * **[Dart Style Guide](https://www.dartlang.org/articles/style-guide/)**.
