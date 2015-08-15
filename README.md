@@ -65,7 +65,7 @@ Docs
 * [MediaWiki JavaScript Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript).
 * [The GoCardless JavaScript Style Guide](https://github.com/gocardless/javascript-style-guide) The GoCardless JavaScript styleguide.
 * [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
-* [Wordpress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
+* [WordPress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
 
 ### JSON
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
