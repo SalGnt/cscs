@@ -121,7 +121,7 @@ Docs
 * [GitHub Ruby Coding Style](https://github.com/styleguide/ruby).
 * [MediaWiki Ruby Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Ruby).
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
-* [The Unofficial Ruby Usage Guide](http://www.caliban.org/ruby/rubyguide.shtml) - Originally written for internal use in the Operations department at Google
+* [The Unofficial Ruby Usage Guide](http://www.caliban.org/ruby/rubyguide.shtml).
 
 ### Scala
 * **[Scala Style Guide](http://docs.scala-lang.org/style/)**.
