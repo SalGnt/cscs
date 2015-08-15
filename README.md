@@ -72,7 +72,7 @@ Docs
 * [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide.
 
 ### Markdown
-* [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
+* [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
 
 ### Objective-C
 * [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
