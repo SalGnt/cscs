@@ -15,6 +15,7 @@ Docs
 * [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials.
 
 ### C++
+* [Apache OpenOffice Cpp Coding Standards](https://wiki.openoffice.org/wiki/Cpp_Coding_Standards)
 * [C++ Coding Standard](http://www.possibility.com/Cpp/CppCodingStandard.html).
 * [C++ Coding Standard](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html).
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
