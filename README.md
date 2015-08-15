@@ -22,15 +22,15 @@ Docs
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
 
+### Elixir
+* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
+
 ### Go
 * **[How to Write Go Code](https://golang.org/doc/code.html)**.
 
 ### Git
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
 * [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
-
-### Elixir
-* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
 
 ### Haskell
 * **[Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)**.
