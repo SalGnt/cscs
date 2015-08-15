@@ -111,7 +111,7 @@ Docs
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 
 ### Scala
-* [Scala Style Guide](http://docs.scala-lang.org/style/) - The official Scala language style guide.
+* **[Scala Style Guide](http://docs.scala-lang.org/style/)**.
 
 ### Shell
 * [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!).
