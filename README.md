@@ -94,6 +94,7 @@ Docs
 * [The Hitchhiker's Guide to Python Code Style](http://docs.python-guide.org/en/latest/writing/style/).
 
 ### R
+* [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html).
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml).
 
 ### Ruby
