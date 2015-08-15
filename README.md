@@ -110,6 +110,9 @@ Docs
 * [MediaWiki Ruby Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Ruby).
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 
+### Scala
+* [Scala Style Guide](http://docs.scala-lang.org/style/) - The official Scala language style guide.
+
 ### Shell
 * [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!).
 * [Community Bash Style Guide](https://github.com/azet/community_bash_style_guide) - (community-driven) guide to writing useful and modern bash scripts. seriously.
