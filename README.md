@@ -23,6 +23,9 @@ Docs
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
 
+### Dart
+* **[Dart Style Guide](https://www.dartlang.org/articles/style-guide/)**.
+
 ### Elixir
 * [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
 
