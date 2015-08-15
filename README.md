@@ -140,6 +140,9 @@ Docs
 * [Community Bash Style Guide](https://github.com/azet/community_bash_style_guide) - (community-driven) guide to writing useful and modern bash scripts. seriously.
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml).
 
+### Standard ML
+* [MLton's Syntactic Conventions](http://mlton.org/SyntacticConventions).
+
 ### Swift
 * [GitHub Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 * [Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
