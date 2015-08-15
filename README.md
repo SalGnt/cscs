@@ -89,6 +89,10 @@ Docs
 * [The Official wantedly.com Objective-C Style Guide](https://github.com/wantedly/objective-c-style-guide).
 * [Wonderful Objective-C Style Guide](https://github.com/markeissler/wonderful-objective-c-style-guide) - A complete OSX and iOS Objective-C coding style guide.
 
+### Perl
+* [Apache OpenOffice Perl Coding Standards](https://wiki.openoffice.org/wiki/Perl_Coding_Standards).
+* **[Perl Style Guide](http://perldoc.perl.org/perlstyle.html)**.
+
 ### PHP
 * [MediaWiki PHP Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
 * [PHP Framework Interop Group Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
