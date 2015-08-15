@@ -8,6 +8,7 @@ Docs
 ### C
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
 * [Recommended C Style and Coding Standards](http://ieng9.ucsd.edu/~cs30x/indhill-cstyle.html).
+* [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard).
 
 ### C&#35;
 * [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards).
@@ -63,6 +64,7 @@ Docs
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html).
 * [Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html).
 * **[OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/)**.
+* [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java).
 * [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
 
 ### JavaScript
@@ -101,6 +103,7 @@ Docs
 ### Perl
 * [Apache OpenOffice Perl Coding Standards](https://wiki.openoffice.org/wiki/Perl_Coding_Standards).
 * **[Perl Style Guide](http://perldoc.perl.org/perlstyle.html)**.
+* [SEI CERT Perl Coding Standard](https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard).
 
 ### PHP
 * [MediaWiki PHP Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
