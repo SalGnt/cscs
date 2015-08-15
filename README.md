@@ -30,7 +30,7 @@ Docs
 * [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
 ### Elixir
-* [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide).
+* [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
 
 ### Haskell
 * **[Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)**.
