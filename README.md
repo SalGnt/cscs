@@ -20,6 +20,7 @@ Docs
 * [C++ Coding Standard](http://www.possibility.com/Cpp/CppCodingStandard.html).
 * [C++ Coding Standard](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html).
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
+* [High Integrity Coding Standard](http://www.codingstandard.com/section/index/).
 * [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 
 ### Clojure
