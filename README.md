@@ -11,7 +11,7 @@ Docs
 
 ### C&#35;
 * [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards).
-* [Microsoft C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx).
+* **[Microsoft C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)**.
 * [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials.
 
 ### C++
@@ -23,14 +23,14 @@ Docs
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
 
 ### Go
-* [How to Write Go Code](https://golang.org/doc/code.html).
+* **[How to Write Go Code](https://golang.org/doc/code.html)**.
 
 ### Git
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
 * [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
 ### Haskell
-* [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines).
+* **[Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)**.
 * [Haskell Style Guide](https://github.com/chrisdone/haskell-style-guide) - A document describing how I like Haskell code to be written.
 * [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
 
@@ -45,10 +45,10 @@ Docs
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
 
 ### Java
-* [Code Conventions for the Java TM Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html).
+* **[Code Conventions for the Java &#8482; Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)**.
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html).
 * [Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html).
-* [OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/).
+* **[OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/)**.
 * [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
 
 ### JavaScript
@@ -91,7 +91,7 @@ Docs
 ### Python
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
 * [MediaWiki Python Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Python).
-* [PEP Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
+* **[PEP 8 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)**.
 * [The Hitchhiker's Guide to Python Code Style](http://docs.python-guide.org/en/latest/writing/style/).
 
 ### R
@@ -119,7 +119,7 @@ Docs
 * [VHDL Coding Style Guidelines](http://webdocs.cs.ualberta.ca/~amaral/courses/329/labs/VHDL_Guideline.html).
 
 ### Visual Basic
-* [Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx).
+* **[Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx)**.
 
 ### XML
 * [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html).
