@@ -133,6 +133,9 @@ Docs
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 * [The Unofficial Ruby Usage Guide](http://www.caliban.org/ruby/rubyguide.shtml).
 
+### Rust
+* [Rust Guidelines](https://aturon.github.io/)
+
 ### Scala
 * **[Scala Style Guide](http://docs.scala-lang.org/style/)**.
 
