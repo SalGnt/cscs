@@ -73,10 +73,10 @@ Docs
 * [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
 
 ### JavaScript
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide.
 * [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html).
 * [GitHub JavaScript Coding Style](https://github.com/styleguide/javascript).
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 * [JavaScript Style Guide](https://github.com/bengourley/js-style-guide) - JavaScript style guide.
 * [JavaScript Style Guide](https://github.com/chamnap/javascript_style_guide) - JavaScript Style Guide.
 * [JavaScript Style Guide](https://github.com/mercadolibre/javascript-style-guide) - MercadoLibre JavaScript Style Guide.
