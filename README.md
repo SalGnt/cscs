@@ -21,6 +21,7 @@ Docs
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
 * [High Integrity Coding Standard](http://www.codingstandard.com/section/index/).
 * [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
+* [JSF Air Vehicle - C++ Coding Standards (Revision C)](http://www.stroustrup.com/JSF-AV-rules.pdf).
 
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
