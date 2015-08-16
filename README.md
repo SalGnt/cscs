@@ -116,6 +116,9 @@ Docs
 * [PHP Framework Interop Group Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
 * [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/).
 
+### Prolog
+* [Prolog Programming Guidelines](https://lifeware.inria.fr/~soliman/prolog_guidelines.html).
+
 ### Python
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
 * [MediaWiki Python Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Python).
