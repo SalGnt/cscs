@@ -36,6 +36,10 @@ Docs
 ### Elixir
 * [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
 
+### Erlang
+* [Erlang Coding Standards & Guidelines](https://github.com/inaka/erlang_guidelines) - Inaka's Erlang Coding Guidelines.
+* [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml).
+
 ### F&#35;
 * **[Microsoft Code Formatting Guidelines (F#)](https://msdn.microsoft.com/en-us/library/dd233191.aspx)**.
 * [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/).
