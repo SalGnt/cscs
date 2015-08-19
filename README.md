@@ -5,6 +5,9 @@ A curated list of Coding Style Conventions and Standards.
 Docs
 ----
 
+### Angular
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+
 ### C
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
 * [Recommended C Style and Coding Standards](http://ieng9.ucsd.edu/~cs30x/indhill-cstyle.html).
