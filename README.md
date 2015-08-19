@@ -5,7 +5,8 @@ A curated list of Coding Style Conventions and Standards.
 Docs
 ----
 
-### Angular
+### AngularJS
+* **[An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)**.
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
 ### C
