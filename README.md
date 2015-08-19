@@ -5,10 +5,6 @@ A curated list of Coding Style Conventions and Standards.
 Docs
 ----
 
-### AngularJS
-* **[An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)**.
-* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
-
 ### C
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
 * [Recommended C Style and Coding Standards](http://ieng9.ucsd.edu/~cs30x/indhill-cstyle.html).
@@ -101,6 +97,10 @@ Docs
 * [The GoCardless JavaScript Style Guide](https://github.com/gocardless/javascript-style-guide) The GoCardless JavaScript styleguide.
 * [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
 * [WordPress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
+
+#### AngularJS
+* **[An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)**.
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
 ### JSON
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
