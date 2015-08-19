@@ -152,6 +152,10 @@ Docs
 * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 * [The Unofficial Ruby Usage Guide](http://www.caliban.org/ruby/rubyguide.shtml).
 
+#### Ruby on Rails
+* **[Contributing to Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)**.
+* [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails 4 style guide.
+
 ### Rust
 * [Rust Guidelines](https://aturon.github.io/)
 
