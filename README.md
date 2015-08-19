@@ -154,7 +154,7 @@ Docs
 
 #### Ruby on Rails
 * **[Contributing to Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)**.
-* [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails 4 style guide.
+* [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails 4 style guide.
 
 ### Rust
 * [Rust Guidelines](https://aturon.github.io/)
