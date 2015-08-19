@@ -121,7 +121,7 @@ Docs
 
 ### PHP
 * [MediaWiki PHP Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
-* [ONGR Strict Standard](https://github.com/ongr-io/ongr-strict-standard) - Modern and whitespace-strict PHPCS standard for PSR-2 code.
+* [ONGR Strict Coding Standard](https://github.com/ongr-io/ongr-strict-standard) - Strict PHPCS standard for PSR-2 code based on Squiz standards.
 * [PHP Framework Interop Group Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
 * [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/).
 
