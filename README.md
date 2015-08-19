@@ -6,7 +6,7 @@ Docs
 ----
 
 ### Angular
-* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
 ### C
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
