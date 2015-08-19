@@ -30,6 +30,9 @@ Docs
 * [Ariel Networks Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html).
 * [Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml).
 
+### D
+* **[The D Style](http://dlang.org/dstyle.html)**.
+
 ### Dart
 * **[Dart Style Guide](https://www.dartlang.org/articles/style-guide/)**.
 
