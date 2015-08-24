@@ -161,6 +161,7 @@ Docs
 
 ### Scala
 * **[Scala Style Guide](http://docs.scala-lang.org/style/)**.
+* [Originate Scala Style Guide](https://github.com/Originate/guide/tree/master/scala) - Code style, conventions and best practices for Scala projects.
 
 ### Shell
 * [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!).
