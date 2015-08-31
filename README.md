@@ -72,7 +72,6 @@ Docs
 * [jQuery HTML Style Guide](https://contribute.jquery.org/style-guide/html/).
 * [MediaWiki CSS Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
 * [SMACSS](https://smacss.com/) - Scalable and Modular Architecture for CSS.
-* [Suit CSS Naming Conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md).
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
 * [WordPress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
@@ -113,7 +112,6 @@ Docs
 
 ### Markdown
 * [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
-* [Markdown Style Guide](https://github.com/carwin/markdown-styleguide).
 
 ### Objective-C
 * [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
