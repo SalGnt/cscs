@@ -71,6 +71,7 @@ Docs
 * [jQuery CSS Style Guide](https://contribute.jquery.org/style-guide/css/).
 * [jQuery HTML Style Guide](https://contribute.jquery.org/style-guide/html/).
 * [MediaWiki CSS Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
+* [Suit CSS Naming Conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md).
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
 * [WordPress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
