@@ -13,8 +13,8 @@ Docs
 ### C&#35;
 * [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards).
 * **[Microsoft C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)**.
+* [Mono Coding Guidelines](http://www.mono-project.com/community/contributing/coding-guidelines/).
 * [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials.
-* [Mono C# Coding Guidelines](http://www.mono-project.com/community/contributing/coding-guidelines/).
 
 ### C++
 * [Apache OpenOffice Cpp Coding Standards](https://wiki.openoffice.org/wiki/Cpp_Coding_Standards)
