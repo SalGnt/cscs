@@ -111,6 +111,7 @@ Docs
 
 ### Markdown
 * [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
+* [Markdown Style Guide](https://github.com/carwin/markdown-styleguide).
 
 ### Objective-C
 * [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
