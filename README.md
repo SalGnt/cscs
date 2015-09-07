@@ -5,6 +5,10 @@ A curated list of Coding Style Conventions and Standards.
 Docs
 ----
 
+### Arduino
+* **[Arduino Style Guide](https://www.arduino.cc/en/Reference/StyleGuide)**.
+* [The ArduPirates Coder's Bible](https://code.google.com/p/ardupirates/wiki/CodingConventions).
+
 ### C
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
 * [Recommended C Style and Coding Standards](http://ieng9.ucsd.edu/~cs30x/indhill-cstyle.html).
