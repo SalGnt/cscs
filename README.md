@@ -2,8 +2,8 @@ Coding Style Conventions and Standards
 ======================================
 A curated list of Coding Style Conventions and Standards.
 
-Docs
-----
+Programming Languages
+---------------------
 
 ### Arduino
 * **[Arduino Style Guide](https://www.arduino.cc/en/Reference/StyleGuide)**.
@@ -57,10 +57,6 @@ Docs
 
 ### Go
 * **[How to Write Go Code](https://golang.org/doc/code.html)**.
-
-### Git
-* [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
-* [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
 ### Haskell
 * **[Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)**.
@@ -190,6 +186,17 @@ Docs
 
 ### XML
 * [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html).
+
+
+Miscellaneous
+------------
+
+### Changelog
+* [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog) - If you maintain an open source project, please keep a changelog.
+
+### Git
+* [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
+* [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
 
 
 Contributing
