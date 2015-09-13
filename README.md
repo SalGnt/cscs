@@ -2,6 +2,13 @@ Coding Style Conventions and Standards
 ======================================
 A curated list of Coding Style Conventions and Standards.
 
+Table of Contents
+-----------------
+
+- [Programming Languages](#programming-languages)
+- [Miscellaneous](#miscellaneous)
+
+
 Programming Languages
 ---------------------
 
