@@ -1,6 +1,10 @@
 Coding Style Conventions and Standards
 ======================================
 A curated list of Coding Style Conventions and Standards.
+<h1 align="center">
+    <img width="400" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
+</h1>
+
 
 Table of Contents
 -----------------
