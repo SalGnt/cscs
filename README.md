@@ -1,9 +1,10 @@
-Coding Style Conventions and Standards
-======================================
-A curated list of Coding Style Conventions and Standards.
 <h1 align="center">
-    <img width="400" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
+    <img width="500" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
 </h1>
+
+A curated list of awesome _Coding Style Conventions and Standards_.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 Table of Contents
@@ -212,9 +213,9 @@ Miscellaneous
 
 Contributing
 ------------
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Contributions are welcome! Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 
-License
+License <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="CC0" width="18" height="18" /></a>
 -------
-This list was created by [Salvatore Gentile](https://twitter.com/_sgentile) and is released under **The MIT License (MIT)**.
+This list was created by [Salvatore Gentile](https://twitter.com/_sgentile) and is released under the **Creative Commons Zero v1.0 Universal**.
