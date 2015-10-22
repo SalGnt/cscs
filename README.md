@@ -218,6 +218,6 @@ Contributing
 Contributions are welcome! Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 
-License <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="CC0" width="18" height="18" /></a>
+License
 -------
-This list was created by [Salvatore Gentile](https://twitter.com/_sgentile) and is released under the **Creative Commons Zero v1.0 Universal**.
+This list was created by [Salvatore Gentile](https://twitter.com/_sgentile) and is released under **The MIT License (MIT)**.
