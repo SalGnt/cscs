@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img width="500" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
+    <img width="300" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
 </h3>
 
 <h1 align="center">
