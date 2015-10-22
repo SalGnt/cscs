@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
     <img width="500" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
-</h1>
+</h3>
 
 A curated list of awesome _Coding Style Conventions and Standards_.
 
