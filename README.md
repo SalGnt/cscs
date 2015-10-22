@@ -1,12 +1,11 @@
-<h3 align="center">
+<p align="center">
     <img width="300" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
-</h3>
+</p>
 
-<h1 align="center">
-    Coding Style Conventions and Standards
-</h1>
+Coding Style Conventions and Standards
+======================================
 
-> A curated list of _Coding Style Conventions and Standards_.
+A curated list of _Coding Style Conventions and Standards_.
 
 
 Table of Contents
