@@ -2,9 +2,11 @@
     <img width="500" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
 </h3>
 
-A curated list of awesome _Coding Style Conventions and Standards_.
+<h1 align="center">
+    Coding Style Conventions and Standards
+</h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of _Coding Style Conventions and Standards_.
 
 
 Table of Contents
