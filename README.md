@@ -35,6 +35,7 @@ Programming Languages
 
 ### C++
 * [Apache OpenOffice Cpp Coding Standards](https://wiki.openoffice.org/wiki/Cpp_Coding_Standards)
+* [C++ Best Practices](https://github.com/lefticus/cppbestpractices) - Forkable C++ coding standards document.
 * [C++ Coding Standard](http://www.possibility.com/Cpp/CppCodingStandard.html).
 * [C++ Coding Standard](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html).
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
