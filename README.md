@@ -136,6 +136,9 @@ Programming Languages
 * [The Official wantedly.com Objective-C Style Guide](https://github.com/wantedly/objective-c-style-guide).
 * [Wonderful Objective-C Style Guide](https://github.com/markeissler/wonderful-objective-c-style-guide) - A complete OSX and iOS Objective-C coding style guide.
 
+### Pascal
+* [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280).
+
 ### Perl
 * [Apache OpenOffice Perl Coding Standards](https://wiki.openoffice.org/wiki/Perl_Coding_Standards).
 * **[Perl Style Guide](http://perldoc.perl.org/perlstyle.html)**.
