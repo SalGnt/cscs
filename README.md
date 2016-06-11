@@ -46,7 +46,7 @@ Programming Languages
 
 ### Common Lisp
 * [Ariel Networks Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html).
-* [Google Common Lisp Style Guide](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml).
+* [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml).
 
 ### D
 * **[The D Style](http://dlang.org/dstyle.html)**.
