@@ -20,6 +20,7 @@ Programming Languages
 
 ### Arduino
 * **[Arduino Style Guide](https://www.arduino.cc/en/Reference/StyleGuide)**.
+* **[Arduino Style Guide for Writing Libraries](https://www.arduino.cc/en/Reference/APIStyleGuide)**.
 * [The ArduPirates Coder's Bible](https://code.google.com/p/ardupirates/wiki/CodingConventions).
 
 ### C
