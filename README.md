@@ -24,6 +24,7 @@ Programming Languages
 
 ### C
 * [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html).
+* [C Programming/Structure and Style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style).
 * [Recommended C Style and Coding Standards](http://ieng9.ucsd.edu/~cs30x/indhill-cstyle.html).
 * [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard).
 
@@ -199,7 +200,7 @@ Programming Languages
 
 ### Visual Basic
 * **[Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx)**.
-* [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
+* [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards).
 
 ### XML
 * [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html).
