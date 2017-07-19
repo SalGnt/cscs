@@ -119,6 +119,7 @@ Programming Languages
 
 ### JSON
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
+* [JSON Style Guide](http://www.w3resource.com/slides/json-style-guide.php).
 
 ### Lua
 * [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide.
