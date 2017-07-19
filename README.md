@@ -145,6 +145,7 @@ Programming Languages
 ### Perl
 * [Apache OpenOffice Perl Coding Standards](https://wiki.openoffice.org/wiki/Perl_Coding_Standards).
 * **[Perl Style Guide](http://perldoc.perl.org/perlstyle.html)**.
+* [perlstyle Perl Style Guide](http://search.cpan.org/dist/perl/pod/perlstyle.pod).
 * [SEI CERT Perl Coding Standard](https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard).
 
 ### PHP
