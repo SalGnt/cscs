@@ -199,6 +199,7 @@ Programming Languages
 
 ### Visual Basic
 * **[Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx)**.
+* [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
 
 ### XML
 * [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html).
