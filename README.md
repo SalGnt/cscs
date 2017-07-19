@@ -139,6 +139,7 @@ Programming Languages
 * [Wonderful Objective-C Style Guide](https://github.com/markeissler/wonderful-objective-c-style-guide) - A complete OSX and iOS Objective-C coding style guide.
 
 ### Pascal
+* **[Free Pascal Coding Style](http://wiki.freepascal.org/Coding_style)**.
 * [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280).
 
 ### Perl
