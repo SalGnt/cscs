@@ -168,6 +168,7 @@ Programming Languages
 ### R
 * [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html).
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml).
+* [The Tidyverse Style Guide](http://style.tidyverse.org/).
 
 ### Ruby
 * [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby) - Ruby Style Guide.
