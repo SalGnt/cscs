@@ -42,6 +42,7 @@ Programming Languages
 * [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index/).
 * [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 * [WebKit Code Style Guidelines](https://webkit.org/code-style-guidelines/).
+* [Learn about C++ Coding Standards](https://www.scaler.com/topics/cpp/cpp-coding-standards/).
 
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
