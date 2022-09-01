@@ -94,6 +94,7 @@ Programming Languages
 * **[Code Conventions for the Java &#8482; Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)**.
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html).
 * [Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html).
+* [Java Programming Tutorial](https://www.scaler.com/topics/java/).
 * **[OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/)**.
 * [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java).
 * [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
