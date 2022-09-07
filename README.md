@@ -42,6 +42,8 @@ Programming Languages
 * [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index/).
 * [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 * [WebKit Code Style Guidelines](https://webkit.org/code-style-guidelines/).
+* [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions).
+* [C++ Cheat Sheet](https://www.interviewbit.com/cpp-cheat-sheet).
 
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
@@ -81,6 +83,7 @@ Programming Languages
 ### HTML/CSS
 * [CSS Style Guide](https://github.com/mercadolibre/css-style-guide) - MercadoLibre CSS Style Guide.
 * [Evernote CSS Style Guide](https://github.com/evernote/css-style-guide).
+* [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
 * [HTML Style Guide](https://github.com/caiogondim/html-style-guide).
 * [jQuery CSS Style Guide](https://contribute.jquery.org/style-guide/css/).
@@ -89,6 +92,7 @@ Programming Languages
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
 * [WordPress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
+* [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
 
 ### Java
 * **[Code Conventions for the Java &#8482; Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)**.
