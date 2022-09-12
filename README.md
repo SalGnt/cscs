@@ -42,6 +42,7 @@ Programming Languages
 * [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index/).
 * [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
 * [WebKit Code Style Guidelines](https://webkit.org/code-style-guidelines/).
+* [C++ Cheat Sheet: Freshers & Experienced](https://www.interviewbit.com/cpp-cheat-sheet/)
 
 ### Clojure
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
@@ -89,6 +90,7 @@ Programming Languages
 * [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
 * [WordPress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
+* [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/).
 
 ### Java
 * **[Code Conventions for the Java &#8482; Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)**.
@@ -97,6 +99,7 @@ Programming Languages
 * **[OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/)**.
 * [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java).
 * [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
+* [Java Cheat Sheet: Freshers & Experienced](https://www.interviewbit.com/java-cheat-sheet/).
 
 ### JavaScript
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide.
@@ -113,10 +116,12 @@ Programming Languages
 * [The GoCardless JavaScript Style Guide](https://github.com/gocardless/javascript-style-guide) The GoCardless JavaScript styleguide.
 * [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
 * [WordPress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
+* [JavaScript Cheat Sheet: Basics to Advanced](https://www.interviewbit.com/javascript-cheat-sheet/).
 
 #### AngularJS
 * **[An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)**.
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
+* [Angular Cheat Sheet: Complete GUide](https://www.interviewbit.com/angular-cheat-sheet/).
 
 ### JSON
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
@@ -163,6 +168,7 @@ Programming Languages
 * [MediaWiki Python Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Python).
 * **[PEP 8 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)**.
 * [The Hitchhiker's Guide to Python Code Style](http://docs.python-guide.org/en/latest/writing/style/).
+* [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/).
 
 ### R
 * [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html).
@@ -221,6 +227,7 @@ Miscellaneous
 ### Git
 * [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
 * [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
+* [Git Cheat Sheet](https://www.interviewbit.com/git-cheat-sheet/)
 
 
 Contributing
