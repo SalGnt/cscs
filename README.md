@@ -144,95 +144,89 @@ A curated list of _Coding Style Conventions and Standards_.
 
 ### Objective-C
 
-- [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
-- [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml).
+- **[Apple Programming with Objective-C Conventions](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)**.
+- **[Apple Introduction to Coding Guidelines for Cocoa](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)**.
+- [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.html).
 - [Macoscope Objective-C Style Guide](https://github.com/macoscope/objc-style-guide) - Our code style guidelines.
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
-- [Robots & Pencils Objective-C Style Guide](https://github.com/RobotsAndPencils/objective-c-style-guide) - Our Objective-C coding style guide. Fall in line!
-- [The Official wantedly.com Objective-C Style Guide](https://github.com/wantedly/objective-c-style-guide).
+- [Robots & Pencils Objective-C Style Guide](https://github.com/RobotsAndPencils/objective-c-style-guide) - Our Objective-C coding style guide.
 - [Wonderful Objective-C Style Guide](https://github.com/markeissler/wonderful-objective-c-style-guide) - A complete OSX and iOS Objective-C coding style guide.
 
 ### Pascal
 
-- **[Free Pascal Coding Style](http://wiki.freepascal.org/Coding_style)**.
-- [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280).
+- **[Free Pascal and Lazarus Coding style](https://wiki.freepascal.org/Coding_style)**.
+- [Object Pascal Style Guide ](https://edn.embarcadero.com/article/10280).
 
 ### Perl
 
 - [Apache OpenOffice Perl Coding Standards](https://wiki.openoffice.org/wiki/Perl_Coding_Standards).
-- **[Perl Style Guide](http://perldoc.perl.org/perlstyle.html)**.
-- [perlstyle Perl Style Guide](http://search.cpan.org/dist/perl/pod/perlstyle.pod).
-- [SEI CERT Perl Coding Standard](https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard).
+- **[Perl style guide](https://perldoc.perl.org/perlstyle)**.
+- [Perl style guide](https://metacpan.org/dist/perl/view/pod/perlstyle.pod).
+- [SEI CERT Perl Coding Standard](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard).
 
 ### PHP
 
-- [MediaWiki PHP Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
-- [ONGR Strict Coding Standard](https://github.com/ongr-io/ongr-strict-standard) - Strict PHPCS standard for PSR-2 code based on Squiz standards.
-- [PHP Framework Interop Group Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
-- [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/).
+- [MediaWiki Coding conventions/PHP](https://www.mediawiki.org/wiki/Manual:Coding_conventions/PHP).
+- [PHP-FIG PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/).
+- [WordPress PHP Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/).
 
 ### Prolog
 
-- [Prolog Programming Guidelines](https://lifeware.inria.fr/~soliman/prolog_guidelines.html).
+- [Prolog programming guidelines](https://lifeware.inria.fr/~soliman/post/prolog_guidelines/).
 
 ### Python
 
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
-- [MediaWiki Python Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Python).
-- **[PEP 8 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)**.
-- [The Hitchhiker's Guide to Python Code Style](http://docs.python-guide.org/en/latest/writing/style/).
+- [MediaWiki Coding conventions/Python](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Python).
+- **[Python PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)**.
+- [The Hitchhiker's Guide to Python - Code Style](https://docs.python-guide.org/writing/style/).
 
 ### R
 
-- [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html).
-- [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml).
-- [The Tidyverse Style Guide](http://style.tidyverse.org/).
+- [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html).
+- [R Style Guide](https://jef.works/R-style-guide/) - Best practices for readable, sharable, and verifiable R code.
 
 ### Ruby
 
-- [Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby) - Ruby Style Guide.
-- [GitHub Ruby Coding Style](https://github.com/styleguide/ruby).
-- [MediaWiki Ruby Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Ruby).
-- [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
-- [The Unofficial Ruby Usage Guide](http://www.caliban.org/ruby/rubyguide.shtml).
+- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) - Ruby Style Guide.
+- [MediaWiki Coding conventions/Ruby](https://www.mediawiki.org/wiki/Manual:Coding_conventions/Ruby).
+- [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide.
+- [The Unofficial Ruby Usage Guide](https://caliban.org/ruby/rubyguide.shtml).
 
 #### Ruby on Rails
 
-- **[Contributing to Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)**.
-- [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide) - A community-driven Ruby on Rails 4 style guide.
+- **[Contributing to Ruby on Rails](https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)**.
+- [Rails Style Guide](https://github.com/rubocop/rails-style-guide) - A community-driven Ruby on Rails style guide .
 
 ### Rust
 
-- [Rust Guidelines](https://aturon.github.io/)
+- **[Rust Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)**.
 
 ### Scala
 
-- **[Scala Style Guide](http://docs.scala-lang.org/style/)**.
+- **[Scala Style Guide](https://docs.scala-lang.org/style/)**.
 
 ### Shell
 
-- [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!).
-- [Community Bash Style Guide](https://github.com/azet/community_bash_style_guide) - (community-driven) guide to writing useful and modern bash scripts. seriously.
-- [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml).
-
-### Standard ML
-
-- [MLton's Syntactic Conventions](http://mlton.org/SyntacticConventions).
+- [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!) .
+- [Community Bash Style Guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide: writing useful and modern bash scripts, seriously.
+- [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html).
 
 ### Swift
 
-- [GitHub Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
+- **[Apple API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)**.
+- [Google Swift Style Guide](https://google.github.io/swift/).
 - [Metova's Swift Style Guide](https://github.com/metova/swift-style-guide).
-- [Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
-- [The Swift Style Guide](https://github.com/netguru/swift-style-guide) - The Swift Style Guide. This guide should help you to improve your Swift code style, its readability, consistency and simplicity.
+- [Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift .
 
 ### VHDL
 
-- [VHDL Coding Style Guidelines](http://webdocs.cs.ualberta.ca/~amaral/courses/329/labs/VHDL_Guideline.html).
+- [VHDL Coding Style Guidelines](https://webdocs.cs.ualberta.ca/~amaral/courses/329/labs/VHDL_Guideline.html).
 
 ### Visual Basic
 
-- **[Microsoft Visual Basic Coding Conventions](https://msdn.microsoft.com/en-us/library/h63fsef3.aspx)**.
+- **[Microsoft Visual Basic Coding Conventions](https://learn.microsoft.com/dotnet/visual-basic/programming-guide/program-structure/coding-conventions)**.
+- **[Microsoft Visual Basic Naming Conventions](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/program-structure/naming-conventions)**.
 - [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards).
 
 ### XML
