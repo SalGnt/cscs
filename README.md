@@ -15,8 +15,8 @@ A curated list of _Coding Style Conventions and Standards_.
 
 ### Arduino
 
-- **[Arduino Style Guide](https://www.arduino.cc/en/Reference/StyleGuide)**.
-- **[Arduino Style Guide for Writing Libraries](https://www.arduino.cc/en/Reference/APIStyleGuide)**.
+- **[Arduino Style Guide for Creating Libraries](https://docs.arduino.cc/learn/contributions/arduino-library-style-guide)**.
+- **[Arduino Style Guide for Writing Content](https://docs.arduino.cc/learn/contributions/arduino-writing-style-guide)**.
 - [The ArduPirates Coder's Bible](https://code.google.com/p/ardupirates/wiki/CodingConventions).
 
 ### C
@@ -27,10 +27,9 @@ A curated list of _Coding Style Conventions and Standards_.
 
 ### C&#35;
 
-- [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards).
-- **[Microsoft C# Coding Conventions (C# Programming Guide)](https://msdn.microsoft.com/en-us/library/ff926074.aspx)**.
-- [Mono Coding Guidelines](http://www.mono-project.com/community/contributing/coding-guidelines/).
-- [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide) - C# Style Guide for Unity Tutorials.
+- [C# Coding Standards Best Practices](https://www.dofactory.com/csharp-coding-standards).
+- **[Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)**.
+- [Mono Coding Guidelines](https://www.mono-project.com/community/contributing/coding-guidelines).
 
 ### C++
 
@@ -38,9 +37,8 @@ A curated list of _Coding Style Conventions and Standards_.
 - [C++ Coding Standard](http://www.possibility.com/Cpp/CppCodingStandard.html).
 - [C++ Coding Standard](https://users.ece.cmu.edu/~eno/coding/CppCodingStandard.html).
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
-- [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index/).
-- [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637).
-- [WebKit Code Style Guidelines](https://webkit.org/code-style-guidelines/).
+- [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index).
+- [WebKit Code Style Guidelines](https://webkit.org/code-style-guidelines).
 
 ### Clojure
 
@@ -48,101 +46,100 @@ A curated list of _Coding Style Conventions and Standards_.
 
 ### Common Lisp
 
-- [Ariel Networks Common Lisp Style Guide](http://labs.ariel-networks.com/cl-style-guide.html).
 - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml).
 
 ### D
 
-- **[The D Style](http://dlang.org/dstyle.html)**.
+- **[The D Style](https://dlang.org/dstyle.html)**.
 
 ### Dart
 
-- **[Dart Style Guide](https://www.dartlang.org/articles/style-guide/)**.
+- **[Effective Dart: Style](https://www.dartlang.org/articles/style-guide/)**.
 
 ### Elixir
 
-- [The Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide) - A community driven style guide for Elixir.
+- [The Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir.
 
 ### Erlang
 
 - [Erlang Coding Standards & Guidelines](https://github.com/inaka/erlang_guidelines) - Inaka's Erlang Coding Guidelines.
-- [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml).
 
 ### F&#35;
 
-- **[Microsoft Code Formatting Guidelines (F#)](https://msdn.microsoft.com/en-us/library/dd233191.aspx)**.
-- [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/).
+- **[Microsoft F# code formatting guidelines](https://learn.microsoft.com/dotnet/fsharp/style-guide/formatting)**.
+- **[Microsoft F# coding conventions](https://learn.microsoft.com/dotnet/fsharp/style-guide/conventions)**.
+- **[Microsoft F# component design guidelines](https://learn.microsoft.com/dotnet/fsharp/style-guide/component-design-guidelines)**.
 
 ### Fortran
 
-- **[Fortran 90 Best Practices](http://www.fortran90.org/src/best-practices.html)**.
+- **[Fortran Best Practices](https://www.fortran90.org/src/best-practices.html)**.
 
 ### Go
 
-- **[How to Write Go Code](https://golang.org/doc/code.html)**.
+- **[How to Write Go Code](https://go.dev/doc/code)**.
 
 ### Haskell
 
 - **[Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)**.
-- [Haskell Style Guide](https://github.com/chrisdone/haskell-style-guide) - A document describing how I like Haskell code to be written.
 - [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
 
 ### HTML/CSS
 
-- [CSS Style Guide](https://github.com/mercadolibre/css-style-guide) - MercadoLibre CSS Style Guide.
+- [Airbnb CSS-in-JavaScript Style Guide](https://airbnb.io/javascript/css-in-javascript/) - A mostly reasonable approach to CSS-in-JavaScript.
+- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [Evernote CSS Style Guide](https://github.com/evernote/css-style-guide).
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
-- [HTML Style Guide](https://github.com/caiogondim/html-style-guide).
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html).
+- [HTML style guide](https://github.com/caiogondim/html-style-guide).
 - [jQuery CSS Style Guide](https://contribute.jquery.org/style-guide/css/).
 - [jQuery HTML Style Guide](https://contribute.jquery.org/style-guide/html/).
-- [MediaWiki CSS Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
-- [W3Schools HTML(5) Style Guide and Coding Conventions](http://www.w3schools.com/html/html5_syntax.asp).
-- [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
-- [WordPress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
+- [MediaWiki Coding conventions/CSS](https://www.mediawiki.org/wiki/Manual:Coding_conventions/CSS).
+- **[W3Schools HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)**.
+- [WordPress CSS Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/).
+- [WordPress HTML Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/html/).
 
 ### Java
 
-- **[Code Conventions for the Java &#8482; Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)**.
-- [Google Java Style](https://google.github.io/styleguide/javaguide.html).
-- [Java Programming Style Guidelines](http://geosoft.no/development/javastyle.html).
-- **[OpenJDK Java Style Guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/)**.
-- [SEI CERT Oracle Coding Standard for Java](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java).
-- [The Official raywenderlich.com Java Style Guide](https://github.com/raywenderlich/java-style-guide) - The official Java style guide for raywenderlich.com.
+- **[Code Conventions for the Java &#8482; Programming Language](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)**.
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
+- [Java Programming Style Guidelines](https://geosoft.no/javastyle.html).
+- **[OpenJDK Java Style Guidelines](https://cr.openjdk.java.net/~alundblad/styleguide/index.html)**.
+- [SEI CERT Oracle Coding Standard for Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java).
 
 ### JavaScript
 
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - JavaScript Style Guide.
-- [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html).
-- [GitHub JavaScript Coding Style](https://github.com/styleguide/javascript).
+- [Airbnb JavaScript Style Guide() {](https://airbnb.io/javascript/) - A mostly reasonable approach to JavaScript.
+- [Code Conventions for the JavaScript Programming Language](https://www.crockford.com/code.html).
+- [function qualityGuide () {](https://github.com/bevacqua/js) - A JavaScript Quality Guide.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
-- [JavaScript Quality Guide](https://github.com/bevacqua/js) - A JavaScript Quality Guide.
 - [JavaScript Style Guide](https://github.com/bengourley/js-style-guide) - JavaScript style guide.
 - [JavaScript Style Guide](https://github.com/chamnap/javascript_style_guide) - JavaScript Style Guide.
-- [JavaScript Style Guide](https://github.com/mercadolibre/javascript-style-guide) - MercadoLibre JavaScript Style Guide.
-- [JavaScript: The Right Way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
+- [JS: The Right Way](https://jstherightway.org).
 - [jQuery JavaScript Style Guide](https://contribute.jquery.org/style-guide/js/).
-- [MediaWiki JavaScript Coding Conventions](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript).
-- [The GoCardless JavaScript Style Guide](https://github.com/gocardless/javascript-style-guide) The GoCardless JavaScript styleguide.
-- [W3Schools JavaScript Style Guide and Coding Conventions](http://www.w3schools.com/js/js_conventions.asp).
-- [WordPress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
+- [MediaWiki Coding conventions/JavaScript](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript).
+- [The GoCardless JavaScript style guide](https://github.com/gocardless/javascript-style-guide) - The GoCardless JavaScript styleguide .
+- **[W3Schools JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)**.
+- [WordPress JavaScript Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/).
 
 #### AngularJS
 
 - **[An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)**.
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
+#### React
+
+- [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - A mostly reasonable approach to React and JSX.
+
 ### JSON
 
 - [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
-- [JSON Style Guide](http://www.w3resource.com/slides/json-style-guide.php).
 
 ### Lua
 
-- [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide.
+- [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide) - Olivine Labs Lua Style Guide .
 
 ### Markdown
 
-- [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/).
+- [Markdown Style Guide](https://cirosantilli.com/markdown-style-guide/).
 - [Style Guidelines: Markdown](https://github.com/carwin/markdown-styleguide) - Formatting standards for readable & consistent Markdown.
 
 ### Objective-C
@@ -152,7 +149,6 @@ A curated list of _Coding Style Conventions and Standards_.
 - [Macoscope Objective-C Style Guide](https://github.com/macoscope/objc-style-guide) - Our code style guidelines.
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
 - [Robots & Pencils Objective-C Style Guide](https://github.com/RobotsAndPencils/objective-c-style-guide) - Our Objective-C coding style guide. Fall in line!
-- [The Official raywenderlich.com Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com.
 - [The Official wantedly.com Objective-C Style Guide](https://github.com/wantedly/objective-c-style-guide).
 - [Wonderful Objective-C Style Guide](https://github.com/markeissler/wonderful-objective-c-style-guide) - A complete OSX and iOS Objective-C coding style guide.
 
@@ -228,7 +224,6 @@ A curated list of _Coding Style Conventions and Standards_.
 - [GitHub Swift Style Guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects.
 - [Metova's Swift Style Guide](https://github.com/metova/swift-style-guide).
 - [Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
-- [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com.
 - [The Swift Style Guide](https://github.com/netguru/swift-style-guide) - The Swift Style Guide. This guide should help you to improve your Swift code style, its readability, consistency and simplicity.
 
 ### VHDL
