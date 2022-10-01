@@ -248,12 +248,12 @@ A curated list of _Coding Style Conventions and Standards_.
 
 ### Changelog
 
-- [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog) - If you maintain an open source project, please keep a changelog.
+- [Keep a Changelog](https://keepachangelog.com) - Don't let your friends dump git logs into changelogs.
 
 ### Git
 
 - [Git Style Guide](https://github.com/agis-/git-style-guide) - A Git Style Guide.
-- [Git Style Guide](https://github.com/jonathanong/git-style-guide) - Personal guide for using git with GitHub.
+- [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide).
 
 ## Contributing
 
