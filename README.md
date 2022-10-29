@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://rawgit.com/SalGnt/cscs/master/media/logo.svg" alt="Coding Style Conventions and Standards">
+    <img width="300" src="https://rawgit.com/SalGnt/cscs/main/media/logo.svg" alt="Coding Style Conventions and Standards">
 </p>
 
 # Coding Style Conventions and Standards
@@ -211,6 +211,7 @@ A curated list of _Coding Style Conventions and Standards_.
 - [Bash Style Guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!) .
 - [Community Bash Style Guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide: writing useful and modern bash scripts, seriously.
 - [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html).
+- [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 
 ### Swift
 
